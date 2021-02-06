@@ -8,7 +8,7 @@ Humans are prone errors while screening textual big data. It is particular true 
 
 This tool uses Logistic Regression in order to detect if an entry erronously labelled corresponding to a text. In its current version, this tool only conducts binary classifications such as Yes/No, Include/Exclude, Agree/Disagree, etc. 
 
-The model is trained on 8,987 randomly chosen abstracts and titles of biomedical articles fetched from PubMed. 
+The model is trained on 8,987 randomly chosen abstracts and titles of biomedical articles dealing with "Cancer" and "Tumor" fetched from PubMed. 
 
 <img src= "/src/error_detect.gif">
 
