@@ -18,7 +18,7 @@ The model is trained on 8,987 randomly chosen abstracts and titles of biomedical
 In order to customize this tool, one might change add/modify the CSV files in the data folder.
 If you come across any bugs, please do not hesitate to contact me. 
 
-Also, please feel fork and suggest improvements. 
+Also, please feel to fork and/or suggest improvements. 
 
 
 
