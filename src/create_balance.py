@@ -4,7 +4,6 @@ import time
 
 import spacy
 from sklearn.feature_extraction.text import HashingVectorizer
-from spacy.tokens import Doc
 
 nlp = spacy.load("en_core_web_sm")
 
