@@ -1,24 +1,29 @@
-# Error Detection, v.001
-### Logistic Regression for Natural Language Processing Classification 
+Error Detection and Classification
 
-***
+This codebase detects errors in data and generates predictions for the labels of the data using machine learning. The code uses the Poetry package manager for dependency management.
 
-This Python code is designed to catch erronous or fradulent content in the textual data. 
-Humans are prone errors while screening textual big data. It is particular true for conducting literature reviews, or spotting fradulent entries corresponding to a particular textual data. 
+Installation
 
-This tool uses Logistic Regression in order to detect if an entry erronously labelled corresponding to a text. In its current version, this tool only conducts binary classifications such as Yes/No, Include/Exclude, Agree/Disagree, etc. 
+    Clone the repository: git clone https://github.com/edbezci/error-detection.git
+    Navigate into the repository: cd error-detection
+    Install dependencies: poetry install
+    Activate poetry: poetry shell
 
-The model is trained on 8,987 randomly chosen abstracts and titles of biomedical articles dealing with "Cancer" and "Tumor" fetched from PubMed. 
+Usage
 
-<img src= "/src/error_detect.gif">
+    Place the input data CSV files in the data folder.
+    Navigate into 'src': cd src
+    Run the code: poetry run python error_detect.py
+    The output will be generated in the out_data folder as a CSV file with a unique file name.
 
----
+Logging
 
+The code uses the logging module to log events and errors to a log file and the console.
 
-In order to customize this tool, one might change add/modify the CSV files in the data folder.
-If you come across any bugs, please do not hesitate to contact me. 
+Testing
 
-Also, please feel to fork and/or suggest improvements. 
+The code uses pytest for unit testing.
 
+License
 
-
+This code is released under the MIT License.
