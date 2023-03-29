@@ -25,6 +25,15 @@ class error_detect:
 
     @classmethod
     def find_files(cls, folder):
+        """
+        This method returns a list of file paths with .csv extension in the given folder.
+
+        Args:
+        - folder (str): A string representing the path to the folder where files are located.
+
+        Returns:
+        - A list of file paths with .csv extension.
+        """
         return [
             os.path.join(folder, f)
             for f in os.listdir(folder)
@@ -33,6 +42,15 @@ class error_detect:
 
     @classmethod
     def create_data_frame(cls):
+        """
+        This method creates a pandas DataFrame by combining the data from all the CSV files in the INPUT_FOLDER.
+
+        Args:
+        - None
+
+        Returns:
+        - A pandas DataFrame that contains the combined data from all the CSV files in the INPUT_FOLDER.
+        """
         data = error_detect.find_files(cls.INPUT_FOLDER)
         logging.info(f"Found {len(data)} input files.")
         ext_data = [pd.read_csv(f, encoding="ISO-8859-1") for f in data]
@@ -42,6 +60,15 @@ class error_detect:
 
     @classmethod
     def detect(cls):
+        """
+        This method detects errors in the data and generates predictions for the labels of the data.
+
+        Args:
+        - None
+
+        Returns:
+        - None
+        """
         try:
             df = error_detect.create_data_frame()
             df.dropna(inplace=True)

@@ -11,6 +11,23 @@ warnings.filterwarnings("ignore")
 
 
 class classify:
+    """
+    A class to perform text classification using a linear classifier with grid search for hyperparameter tuning.
+
+    Attributes:
+    -----------
+    parameters : dict
+        A dictionary containing the hyperparameters to be tuned by grid search.
+    clf : SGDClassifier
+        A linear classifier object from Scikit-learn's SGDClassifier class.
+
+    Methods:
+    --------
+    label_detect(df):
+        Trains a linear classifier on a balanced dataset obtained from pre-processing input DataFrame `df` using
+        the `read_and_balance` module, and returns the trained classifier and the corresponding fitted vectorizer.
+    """
+
     parameters = {
         "loss": ["log_loss"],
         "penalty": ("l2", "elasticnet"),
@@ -21,6 +38,22 @@ class classify:
 
     @classmethod
     def label_detect(cls, df):
+        """
+        Trains a linear classifier on a balanced dataset obtained from pre-processing input DataFrame `df`
+        using the `read_and_balance` module, and returns the trained classifier and the corresponding fitted vectorizer.
+
+        Parameters:
+        -----------
+        df : pandas.DataFrame
+            A DataFrame containing text data to be classified, with columns "text" and "category".
+
+        Returns:
+        --------
+        gs_clf : GridSearchCV
+            A grid search object that contains the best hyperparameters found during training.
+        vectorizer : TfidfVectorizer
+            A TfidfVectorizer object that was fitted on the training data.
+        """
         X, Y, vectorizer = read_and_balance.pre_process(df)
 
         X_train, X_test, y_train, y_test = train_test_split(
