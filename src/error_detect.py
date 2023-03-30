@@ -73,7 +73,7 @@ class error_detect:
             df = error_detect.create_data_frame()
             df.dropna(inplace=True)
             df.reset_index(drop=True, inplace=True)
-            df = df.head(75)
+            # df = df.head(75) Only to use a small subset of the dataframe
             predictions = []
             logging.debug(f"Processing {len(df)} rows of data.")
             for i in tqdm(range(len(df))):

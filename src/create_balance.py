@@ -89,7 +89,7 @@ class read_and_balance:
         logger = logging.getLogger()
         logger.setLevel(logging.INFO)
 
-        logging.info(f"Processed {len(df)} rows")
+        logging.info(f" Processed {len(df)} rows")
         logging.info(f"Time for preprocessing a row: {end-start}")
         logging.info(
             f"Time for vectorizer: {vector_time_end - vector_time_strt}"

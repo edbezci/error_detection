@@ -2555,3 +2555,1577 @@ weighted avg       0.71      0.84      0.77        25
 
 2023-03-29 20:16:49,785 - INFO - Row 74 - actual label: safe, predicted label: safe, probability: 0.889609947969072
 2023-03-29 20:16:49,795 - INFO - Saved output to ./out_data\bb8d9f34_ce5d_11ed_9329_04421a29ab6f.csv
+2023-03-30 09:50:00,104 - INFO - Found 2 input files.
+2023-03-30 09:50:00,129 - INFO - Combined 377 rows of data.
+2023-03-30 09:50:00,738 - INFO - Processed 74 rows
+2023-03-30 09:50:00,738 - INFO - Time for preprocessing a row: 0.5970032215118408
+2023-03-30 09:50:00,738 - INFO - Time for vectorizer: 0.007382869720458984
+2023-03-30 09:50:03,551 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:50:03,552 - INFO - loss: 'log_loss'
+2023-03-30 09:50:03,552 - INFO - penalty: 'l2'
+2023-03-30 09:50:03,552 - INFO - tol: 0.01
+2023-03-30 09:50:03,556 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:50:03,559 - INFO - Row 0 - actual label: safe, predicted label: safe, probability: 0.8455772277098452
+2023-03-30 09:50:04,057 - INFO - Processed 74 rows
+2023-03-30 09:50:04,058 - INFO - Time for preprocessing a row: 0.49370694160461426
+2023-03-30 09:50:04,058 - INFO - Time for vectorizer: 0.001994609832763672
+2023-03-30 09:50:04,224 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:50:04,225 - INFO - loss: 'log_loss'
+2023-03-30 09:50:04,225 - INFO - penalty: 'l2'
+2023-03-30 09:50:04,225 - INFO - tol: 0.01
+2023-03-30 09:50:04,229 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:50:04,232 - INFO - Row 1 - actual label: safe, predicted label: safe, probability: 0.7651184818950549
+2023-03-30 09:50:04,721 - INFO - Processed 74 rows
+2023-03-30 09:50:04,722 - INFO - Time for preprocessing a row: 0.48470306396484375
+2023-03-30 09:50:04,722 - INFO - Time for vectorizer: 0.001995086669921875
+2023-03-30 09:50:05,002 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:50:05,003 - INFO - loss: 'log_loss'
+2023-03-30 09:50:05,003 - INFO - penalty: 'l2'
+2023-03-30 09:50:05,004 - INFO - tol: 0.01
+2023-03-30 09:50:05,012 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:50:05,019 - INFO - Row 2 - actual label: safe, predicted label: safe, probability: 0.7361685608708219
+2023-03-30 09:50:05,526 - INFO - Processed 74 rows
+2023-03-30 09:50:05,526 - INFO - Time for preprocessing a row: 0.49469542503356934
+2023-03-30 09:50:05,526 - INFO - Time for vectorizer: 0.0019941329956054688
+2023-03-30 09:50:05,691 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:50:05,691 - INFO - loss: 'log_loss'
+2023-03-30 09:50:05,692 - INFO - penalty: 'l2'
+2023-03-30 09:50:05,692 - INFO - tol: 0.01
+2023-03-30 09:50:05,696 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:50:05,698 - INFO - Row 3 - actual label: safe, predicted label: safe, probability: 0.7521818406471823
+2023-03-30 09:50:06,204 - INFO - Processed 74 rows
+2023-03-30 09:50:06,204 - INFO - Time for preprocessing a row: 0.5006601810455322
+2023-03-30 09:50:06,204 - INFO - Time for vectorizer: 0.0020232200622558594
+2023-03-30 09:50:06,468 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:50:06,468 - INFO - loss: 'log_loss'
+2023-03-30 09:50:06,468 - INFO - penalty: 'l2'
+2023-03-30 09:50:06,469 - INFO - tol: 0.01
+2023-03-30 09:50:06,473 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:50:06,475 - INFO - Row 4 - actual label: safe, predicted label: safe, probability: 0.8959755489603262
+2023-03-30 09:50:06,988 - INFO - Processed 74 rows
+2023-03-30 09:50:06,989 - INFO - Time for preprocessing a row: 0.5076701641082764
+2023-03-30 09:50:06,989 - INFO - Time for vectorizer: 0.001993894577026367
+2023-03-30 09:50:07,155 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:50:07,155 - INFO - loss: 'log_loss'
+2023-03-30 09:50:07,156 - INFO - penalty: 'l2'
+2023-03-30 09:50:07,156 - INFO - tol: 0.01
+2023-03-30 09:50:07,160 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:50:07,162 - INFO - Row 5 - actual label: safe, predicted label: safe, probability: 0.7337702538469888
+2023-03-30 09:50:07,645 - INFO - Processed 74 rows
+2023-03-30 09:50:07,646 - INFO - Time for preprocessing a row: 0.4787440299987793
+2023-03-30 09:50:07,646 - INFO - Time for vectorizer: 0.0019948482513427734
+2023-03-30 09:51:27,422 - INFO - Found 2 input files.
+2023-03-30 09:51:27,432 - INFO - Combined 377 rows of data.
+2023-03-30 09:51:28,052 - INFO -  Processed 74 rows
+2023-03-30 09:51:28,053 - INFO - Time for preprocessing a row: 0.6123621463775635
+2023-03-30 09:51:28,053 - INFO - Time for vectorizer: 0.0019958019256591797
+2023-03-30 09:51:30,901 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:51:30,902 - INFO - loss: 'log_loss'
+2023-03-30 09:51:30,902 - INFO - penalty: 'l2'
+2023-03-30 09:51:30,902 - INFO - tol: 0.01
+2023-03-30 09:51:30,908 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:51:30,910 - INFO - Row 0 - actual label: safe, predicted label: safe, probability: 0.8327934554887615
+2023-03-30 09:51:31,426 - INFO -  Processed 74 rows
+2023-03-30 09:51:31,426 - INFO - Time for preprocessing a row: 0.5086615085601807
+2023-03-30 09:51:31,426 - INFO - Time for vectorizer: 0.002965211868286133
+2023-03-30 09:51:31,596 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:51:31,596 - INFO - loss: 'log_loss'
+2023-03-30 09:51:31,596 - INFO - penalty: 'l2'
+2023-03-30 09:51:31,597 - INFO - tol: 0.01
+2023-03-30 09:51:31,601 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:51:31,603 - INFO - Row 1 - actual label: safe, predicted label: safe, probability: 0.7973162236054668
+2023-03-30 09:51:32,103 - INFO -  Processed 74 rows
+2023-03-30 09:51:32,103 - INFO - Time for preprocessing a row: 0.4947018623352051
+2023-03-30 09:51:32,104 - INFO - Time for vectorizer: 0.0019953250885009766
+2023-03-30 09:51:32,385 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:51:32,386 - INFO - loss: 'log_loss'
+2023-03-30 09:51:32,387 - INFO - penalty: 'l2'
+2023-03-30 09:51:32,387 - INFO - tol: 0.01
+2023-03-30 09:51:32,396 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:51:32,402 - INFO - Row 2 - actual label: safe, predicted label: safe, probability: 0.7630122886731611
+2023-03-30 09:51:32,923 - INFO -  Processed 74 rows
+2023-03-30 09:51:32,923 - INFO - Time for preprocessing a row: 0.512624979019165
+2023-03-30 09:51:32,923 - INFO - Time for vectorizer: 0.0019953250885009766
+2023-03-30 09:51:33,090 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:51:33,090 - INFO - loss: 'log_loss'
+2023-03-30 09:51:33,091 - INFO - penalty: 'l2'
+2023-03-30 09:51:33,091 - INFO - tol: 0.01
+2023-03-30 09:51:33,095 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:51:33,097 - INFO - Row 3 - actual label: safe, predicted label: safe, probability: 0.7545855440079088
+2023-03-30 09:51:33,602 - INFO -  Processed 74 rows
+2023-03-30 09:51:33,603 - INFO - Time for preprocessing a row: 0.5006618499755859
+2023-03-30 09:51:33,603 - INFO - Time for vectorizer: 0.0019948482513427734
+2023-03-30 09:51:33,852 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:51:33,853 - INFO - loss: 'log_loss'
+2023-03-30 09:51:33,853 - INFO - penalty: 'l2'
+2023-03-30 09:51:33,853 - INFO - tol: 0.01
+2023-03-30 09:51:33,858 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:51:33,860 - INFO - Row 4 - actual label: safe, predicted label: safe, probability: 0.866966719419616
+2023-03-30 09:51:34,361 - INFO -  Processed 74 rows
+2023-03-30 09:51:34,362 - INFO - Time for preprocessing a row: 0.4956483840942383
+2023-03-30 09:51:34,363 - INFO - Time for vectorizer: 0.002989053726196289
+2023-03-30 09:51:34,584 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:51:34,584 - INFO - loss: 'log_loss'
+2023-03-30 09:51:34,584 - INFO - penalty: 'l2'
+2023-03-30 09:51:34,584 - INFO - tol: 0.01
+2023-03-30 09:51:34,588 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:51:34,590 - INFO - Row 5 - actual label: safe, predicted label: safe, probability: 0.7265702550183268
+2023-03-30 09:51:35,080 - INFO -  Processed 74 rows
+2023-03-30 09:51:35,080 - INFO - Time for preprocessing a row: 0.48473048210144043
+2023-03-30 09:51:35,080 - INFO - Time for vectorizer: 0.0019674301147460938
+2023-03-30 09:51:35,333 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:51:35,333 - INFO - loss: 'log_loss'
+2023-03-30 09:51:35,333 - INFO - penalty: 'l2'
+2023-03-30 09:51:35,334 - INFO - tol: 0.01
+2023-03-30 09:51:35,338 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:51:35,341 - INFO - Row 6 - actual label: safe, predicted label: safe, probability: 0.8350477963930176
+2023-03-30 09:51:35,838 - INFO -  Processed 74 rows
+2023-03-30 09:51:35,839 - INFO - Time for preprocessing a row: 0.4886813163757324
+2023-03-30 09:51:35,839 - INFO - Time for vectorizer: 0.0019941329956054688
+2023-03-30 09:51:36,009 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:51:36,009 - INFO - loss: 'log_loss'
+2023-03-30 09:51:36,010 - INFO - penalty: 'l2'
+2023-03-30 09:51:36,010 - INFO - tol: 0.01
+2023-03-30 09:51:36,014 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:51:36,017 - INFO - Row 7 - actual label: safe, predicted label: safe, probability: 0.7022079745567257
+2023-03-30 09:51:36,562 - INFO -  Processed 74 rows
+2023-03-30 09:51:36,563 - INFO - Time for preprocessing a row: 0.5405535697937012
+2023-03-30 09:51:36,563 - INFO - Time for vectorizer: 0.0019943714141845703
+2023-03-30 09:51:36,817 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:51:36,817 - INFO - loss: 'log_loss'
+2023-03-30 09:51:36,817 - INFO - penalty: 'l2'
+2023-03-30 09:51:36,818 - INFO - tol: 0.01
+2023-03-30 09:51:36,822 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:51:36,824 - INFO - Row 8 - actual label: safe, predicted label: safe, probability: 0.7911376048399208
+2023-03-30 09:51:37,317 - INFO -  Processed 74 rows
+2023-03-30 09:51:37,317 - INFO - Time for preprocessing a row: 0.48871946334838867
+2023-03-30 09:51:37,318 - INFO - Time for vectorizer: 0.0019979476928710938
+2023-03-30 09:51:37,552 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:51:37,552 - INFO - loss: 'log_loss'
+2023-03-30 09:51:37,552 - INFO - penalty: 'l2'
+2023-03-30 09:51:37,552 - INFO - tol: 0.01
+2023-03-30 09:51:37,556 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:51:37,559 - INFO - Row 9 - actual label: safe, predicted label: safe, probability: 0.7409417374018825
+2023-03-30 09:51:38,075 - INFO -  Processed 74 rows
+2023-03-30 09:51:38,075 - INFO - Time for preprocessing a row: 0.5106606483459473
+2023-03-30 09:51:38,076 - INFO - Time for vectorizer: 0.001995563507080078
+2023-03-30 09:51:38,326 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:51:38,326 - INFO - loss: 'log_loss'
+2023-03-30 09:51:38,327 - INFO - penalty: 'l2'
+2023-03-30 09:51:38,327 - INFO - tol: 0.01
+2023-03-30 09:51:38,331 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:51:38,334 - INFO - Row 10 - actual label: safe, predicted label: safe, probability: 0.6406582808015242
+2023-03-30 09:52:52,769 - INFO - Found 2 input files.
+2023-03-30 09:52:52,781 - INFO - Combined 377 rows of data.
+2023-03-30 09:52:53,365 - INFO -  Processed 74 rows
+2023-03-30 09:52:53,365 - INFO - Time for preprocessing a row: 0.5774569511413574
+2023-03-30 09:52:53,365 - INFO - Time for vectorizer: 0.001994609832763672
+2023-03-30 09:52:56,515 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:52:56,515 - INFO - loss: 'log_loss'
+2023-03-30 09:52:56,515 - INFO - penalty: 'l2'
+2023-03-30 09:52:56,516 - INFO - tol: 0.01
+2023-03-30 09:52:56,521 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:52:56,522 - INFO - Row 0 - actual label: safe, predicted label: safe, probability: 0.8488229121541266
+2023-03-30 09:52:57,099 - INFO -  Processed 74 rows
+2023-03-30 09:52:57,100 - INFO - Time for preprocessing a row: 0.5724940299987793
+2023-03-30 09:52:57,100 - INFO - Time for vectorizer: 0.001970052719116211
+2023-03-30 09:52:57,270 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:52:57,270 - INFO - loss: 'log_loss'
+2023-03-30 09:52:57,270 - INFO - penalty: 'l2'
+2023-03-30 09:52:57,270 - INFO - tol: 0.01
+2023-03-30 09:52:57,275 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:52:57,276 - INFO - Row 1 - actual label: safe, predicted label: safe, probability: 0.7808581701387117
+2023-03-30 09:52:57,834 - INFO -  Processed 74 rows
+2023-03-30 09:52:57,835 - INFO - Time for preprocessing a row: 0.5525224208831787
+2023-03-30 09:52:57,835 - INFO - Time for vectorizer: 0.0020208358764648438
+2023-03-30 09:52:58,111 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:52:58,111 - INFO - loss: 'log_loss'
+2023-03-30 09:52:58,111 - INFO - penalty: 'l2'
+2023-03-30 09:52:58,112 - INFO - tol: 0.01
+2023-03-30 09:52:58,116 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:52:58,118 - INFO - Row 2 - actual label: safe, predicted label: safe, probability: 0.750779064289724
+2023-03-30 09:52:58,651 - INFO -  Processed 74 rows
+2023-03-30 09:52:58,652 - INFO - Time for preprocessing a row: 0.5245957374572754
+2023-03-30 09:52:58,653 - INFO - Time for vectorizer: 0.003991365432739258
+2023-03-30 09:52:58,895 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:52:58,895 - INFO - loss: 'log_loss'
+2023-03-30 09:52:58,895 - INFO - penalty: 'l2'
+2023-03-30 09:52:58,896 - INFO - tol: 0.01
+2023-03-30 09:52:58,900 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:52:58,902 - INFO - Row 3 - actual label: safe, predicted label: safe, probability: 0.7269760446255114
+2023-03-30 09:52:59,428 - INFO -  Processed 74 rows
+2023-03-30 09:52:59,428 - INFO - Time for preprocessing a row: 0.5206074714660645
+2023-03-30 09:52:59,428 - INFO - Time for vectorizer: 0.0019941329956054688
+2023-03-30 09:52:59,764 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:52:59,765 - INFO - loss: 'log_loss'
+2023-03-30 09:52:59,765 - INFO - penalty: 'l2'
+2023-03-30 09:52:59,765 - INFO - tol: 0.01
+2023-03-30 09:52:59,769 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:52:59,771 - INFO - Row 4 - actual label: safe, predicted label: safe, probability: 0.8987219058519322
+2023-03-30 09:53:00,340 - INFO -  Processed 74 rows
+2023-03-30 09:53:00,341 - INFO - Time for preprocessing a row: 0.5614981651306152
+2023-03-30 09:53:00,341 - INFO - Time for vectorizer: 0.0019948482513427734
+2023-03-30 09:53:00,524 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:00,525 - INFO - loss: 'log_loss'
+2023-03-30 09:53:00,525 - INFO - penalty: 'l2'
+2023-03-30 09:53:00,525 - INFO - tol: 0.01
+2023-03-30 09:53:00,529 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:00,532 - INFO - Row 5 - actual label: safe, predicted label: safe, probability: 0.7269963806698889
+2023-03-30 09:53:01,112 - INFO -  Processed 74 rows
+2023-03-30 09:53:01,112 - INFO - Time for preprocessing a row: 0.5744612216949463
+2023-03-30 09:53:01,112 - INFO - Time for vectorizer: 0.0029921531677246094
+2023-03-30 09:53:01,399 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:01,399 - INFO - loss: 'log_loss'
+2023-03-30 09:53:01,400 - INFO - penalty: 'l2'
+2023-03-30 09:53:01,400 - INFO - tol: 0.01
+2023-03-30 09:53:01,406 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:01,408 - INFO - Row 6 - actual label: safe, predicted label: safe, probability: 0.8436380319261687
+2023-03-30 09:53:01,921 - INFO -  Processed 74 rows
+2023-03-30 09:53:01,922 - INFO - Time for preprocessing a row: 0.5046765804290771
+2023-03-30 09:53:01,922 - INFO - Time for vectorizer: 0.001995563507080078
+2023-03-30 09:53:02,088 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:02,089 - INFO - loss: 'log_loss'
+2023-03-30 09:53:02,089 - INFO - penalty: 'l2'
+2023-03-30 09:53:02,089 - INFO - tol: 0.01
+2023-03-30 09:53:02,093 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:02,097 - INFO - Row 7 - actual label: safe, predicted label: safe, probability: 0.7330741506643901
+2023-03-30 09:53:02,593 - INFO -  Processed 74 rows
+2023-03-30 09:53:02,593 - INFO - Time for preprocessing a row: 0.4896891117095947
+2023-03-30 09:53:02,593 - INFO - Time for vectorizer: 0.0019948482513427734
+2023-03-30 09:53:02,915 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:02,915 - INFO - loss: 'log_loss'
+2023-03-30 09:53:02,915 - INFO - penalty: 'l2'
+2023-03-30 09:53:02,915 - INFO - tol: 0.01
+2023-03-30 09:53:02,919 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:02,922 - INFO - Row 8 - actual label: safe, predicted label: safe, probability: 0.8125183629186659
+2023-03-30 09:53:03,412 - INFO -  Processed 74 rows
+2023-03-30 09:53:03,413 - INFO - Time for preprocessing a row: 0.484727144241333
+2023-03-30 09:53:03,413 - INFO - Time for vectorizer: 0.0019943714141845703
+2023-03-30 09:53:03,579 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:03,579 - INFO - loss: 'log_loss'
+2023-03-30 09:53:03,579 - INFO - penalty: 'l2'
+2023-03-30 09:53:03,579 - INFO - tol: 0.01
+2023-03-30 09:53:03,583 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:03,586 - INFO - Row 9 - actual label: safe, predicted label: safe, probability: 0.731949121354988
+2023-03-30 09:53:04,110 - INFO -  Processed 74 rows
+2023-03-30 09:53:04,111 - INFO - Time for preprocessing a row: 0.5186388492584229
+2023-03-30 09:53:04,111 - INFO - Time for vectorizer: 0.001994609832763672
+2023-03-30 09:53:04,368 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:04,368 - INFO - loss: 'log_loss'
+2023-03-30 09:53:04,368 - INFO - penalty: 'l2'
+2023-03-30 09:53:04,369 - INFO - tol: 0.01
+2023-03-30 09:53:04,373 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:04,375 - INFO - Row 10 - actual label: safe, predicted label: safe, probability: 0.638166018689692
+2023-03-30 09:53:04,875 - INFO -  Processed 74 rows
+2023-03-30 09:53:04,875 - INFO - Time for preprocessing a row: 0.4946756362915039
+2023-03-30 09:53:04,875 - INFO - Time for vectorizer: 0.0009970664978027344
+2023-03-30 09:53:05,054 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:05,055 - INFO - loss: 'log_loss'
+2023-03-30 09:53:05,055 - INFO - penalty: 'l2'
+2023-03-30 09:53:05,055 - INFO - tol: 0.01
+2023-03-30 09:53:05,059 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:05,062 - INFO - Row 11 - actual label: safe, predicted label: safe, probability: 0.9685325826460353
+2023-03-30 09:53:05,571 - INFO -  Processed 74 rows
+2023-03-30 09:53:05,571 - INFO - Time for preprocessing a row: 0.5026822090148926
+2023-03-30 09:53:05,572 - INFO - Time for vectorizer: 0.001995086669921875
+2023-03-30 09:53:05,881 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:05,881 - INFO - loss: 'log_loss'
+2023-03-30 09:53:05,881 - INFO - penalty: 'l2'
+2023-03-30 09:53:05,881 - INFO - tol: 0.01
+2023-03-30 09:53:05,886 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:05,888 - INFO - Row 12 - actual label: safe, predicted label: safe, probability: 0.7028132318753922
+2023-03-30 09:53:06,399 - INFO -  Processed 74 rows
+2023-03-30 09:53:06,400 - INFO - Time for preprocessing a row: 0.5066237449645996
+2023-03-30 09:53:06,400 - INFO - Time for vectorizer: 0.0019941329956054688
+2023-03-30 09:53:06,560 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:06,560 - INFO - loss: 'log_loss'
+2023-03-30 09:53:06,560 - INFO - penalty: 'l2'
+2023-03-30 09:53:06,561 - INFO - tol: 0.01
+2023-03-30 09:53:06,565 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:06,567 - INFO - Row 13 - actual label: safe, predicted label: safe, probability: 0.7296159618764687
+2023-03-30 09:53:07,118 - INFO -  Processed 74 rows
+2023-03-30 09:53:07,119 - INFO - Time for preprocessing a row: 0.5455422401428223
+2023-03-30 09:53:07,119 - INFO - Time for vectorizer: 0.001968860626220703
+2023-03-30 09:53:07,370 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:07,370 - INFO - loss: 'log_loss'
+2023-03-30 09:53:07,371 - INFO - penalty: 'l2'
+2023-03-30 09:53:07,371 - INFO - tol: 0.01
+2023-03-30 09:53:07,375 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:07,378 - INFO - Row 14 - actual label: safe, predicted label: safe, probability: 0.964918652343134
+2023-03-30 09:53:07,878 - INFO -  Processed 74 rows
+2023-03-30 09:53:07,878 - INFO - Time for preprocessing a row: 0.4946744441986084
+2023-03-30 09:53:07,878 - INFO - Time for vectorizer: 0.0020241737365722656
+2023-03-30 09:53:08,044 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:08,045 - INFO - loss: 'log_loss'
+2023-03-30 09:53:08,045 - INFO - penalty: 'l2'
+2023-03-30 09:53:08,045 - INFO - tol: 0.01
+2023-03-30 09:53:08,049 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:08,052 - INFO - Row 15 - actual label: safe, predicted label: safe, probability: 0.9242180398796109
+2023-03-30 09:53:08,545 - INFO -  Processed 74 rows
+2023-03-30 09:53:08,545 - INFO - Time for preprocessing a row: 0.48769283294677734
+2023-03-30 09:53:08,545 - INFO - Time for vectorizer: 0.001994609832763672
+2023-03-30 09:53:08,871 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:08,872 - INFO - loss: 'log_loss'
+2023-03-30 09:53:08,872 - INFO - penalty: 'l2'
+2023-03-30 09:53:08,872 - INFO - tol: 0.01
+2023-03-30 09:53:08,876 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:08,879 - INFO - Row 16 - actual label: safe, predicted label: safe, probability: 0.7792939554132291
+2023-03-30 09:53:09,378 - INFO -  Processed 74 rows
+2023-03-30 09:53:09,379 - INFO - Time for preprocessing a row: 0.49268174171447754
+2023-03-30 09:53:09,379 - INFO - Time for vectorizer: 0.001995086669921875
+2023-03-30 09:53:09,544 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:09,546 - INFO - loss: 'log_loss'
+2023-03-30 09:53:09,546 - INFO - penalty: 'l2'
+2023-03-30 09:53:09,546 - INFO - tol: 0.01
+2023-03-30 09:53:09,550 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:09,553 - INFO - Row 17 - actual label: safe, predicted label: safe, probability: 0.8822684712361513
+2023-03-30 09:53:10,057 - INFO -  Processed 74 rows
+2023-03-30 09:53:10,058 - INFO - Time for preprocessing a row: 0.4996631145477295
+2023-03-30 09:53:10,058 - INFO - Time for vectorizer: 0.001994609832763672
+2023-03-30 09:53:10,324 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:10,324 - INFO - loss: 'log_loss'
+2023-03-30 09:53:10,324 - INFO - penalty: 'l2'
+2023-03-30 09:53:10,325 - INFO - tol: 0.01
+2023-03-30 09:53:10,330 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:10,334 - INFO - Row 18 - actual label: safe, predicted label: safe, probability: 0.9064863416992898
+2023-03-30 09:53:10,933 - INFO -  Processed 74 rows
+2023-03-30 09:53:10,933 - INFO - Time for preprocessing a row: 0.591444730758667
+2023-03-30 09:53:10,933 - INFO - Time for vectorizer: 0.0019919872283935547
+2023-03-30 09:53:11,109 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:11,109 - INFO - loss: 'log_loss'
+2023-03-30 09:53:11,109 - INFO - penalty: 'l2'
+2023-03-30 09:53:11,110 - INFO - tol: 0.01
+2023-03-30 09:53:11,114 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:11,116 - INFO - Row 19 - actual label: safe, predicted label: safe, probability: 0.9144002035615613
+2023-03-30 09:53:11,640 - INFO -  Processed 74 rows
+2023-03-30 09:53:11,641 - INFO - Time for preprocessing a row: 0.5186100006103516
+2023-03-30 09:53:11,641 - INFO - Time for vectorizer: 0.0019943714141845703
+2023-03-30 09:53:11,944 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:11,944 - INFO - loss: 'log_loss'
+2023-03-30 09:53:11,944 - INFO - penalty: 'l2'
+2023-03-30 09:53:11,945 - INFO - tol: 0.01
+2023-03-30 09:53:11,949 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:11,951 - INFO - Row 20 - actual label: safe, predicted label: safe, probability: 0.783385157661258
+2023-03-30 09:53:12,467 - INFO -  Processed 74 rows
+2023-03-30 09:53:12,468 - INFO - Time for preprocessing a row: 0.5126268863677979
+2023-03-30 09:53:12,468 - INFO - Time for vectorizer: 0.0019948482513427734
+2023-03-30 09:53:12,660 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:12,660 - INFO - loss: 'log_loss'
+2023-03-30 09:53:12,661 - INFO - penalty: 'l2'
+2023-03-30 09:53:12,661 - INFO - tol: 0.01
+2023-03-30 09:53:12,676 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:12,683 - INFO - Row 21 - actual label: safe, predicted label: safe, probability: 0.9646392358332043
+2023-03-30 09:53:13,250 - INFO -  Processed 74 rows
+2023-03-30 09:53:13,250 - INFO - Time for preprocessing a row: 0.549527645111084
+2023-03-30 09:53:13,251 - INFO - Time for vectorizer: 0.0019941329956054688
+2023-03-30 09:53:13,550 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:13,550 - INFO - loss: 'log_loss'
+2023-03-30 09:53:13,550 - INFO - penalty: 'l2'
+2023-03-30 09:53:13,551 - INFO - tol: 0.01
+2023-03-30 09:53:13,555 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:13,558 - INFO - Row 22 - actual label: safe, predicted label: safe, probability: 0.7155722227114609
+2023-03-30 09:53:14,158 - INFO -  Processed 74 rows
+2023-03-30 09:53:14,158 - INFO - Time for preprocessing a row: 0.5924150943756104
+2023-03-30 09:53:14,158 - INFO - Time for vectorizer: 0.002992868423461914
+2023-03-30 09:53:14,338 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:14,339 - INFO - loss: 'log_loss'
+2023-03-30 09:53:14,339 - INFO - penalty: 'l2'
+2023-03-30 09:53:14,339 - INFO - tol: 0.01
+2023-03-30 09:53:14,343 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:14,346 - INFO - Row 23 - actual label: safe, predicted label: safe, probability: 0.7606721084135897
+2023-03-30 09:53:14,917 - INFO -  Processed 74 rows
+2023-03-30 09:53:14,917 - INFO - Time for preprocessing a row: 0.5644893646240234
+2023-03-30 09:53:14,918 - INFO - Time for vectorizer: 0.0020248889923095703
+2023-03-30 09:53:15,196 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:15,197 - INFO - loss: 'log_loss'
+2023-03-30 09:53:15,197 - INFO - penalty: 'l2'
+2023-03-30 09:53:15,197 - INFO - tol: 0.01
+2023-03-30 09:53:15,201 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:15,203 - INFO - Row 24 - actual label: safe, predicted label: safe, probability: 0.8763526500246943
+2023-03-30 09:53:15,773 - INFO -  Processed 74 rows
+2023-03-30 09:53:15,774 - INFO - Time for preprocessing a row: 0.565488338470459
+2023-03-30 09:53:15,774 - INFO - Time for vectorizer: 0.001995086669921875
+2023-03-30 09:53:15,972 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:15,973 - INFO - loss: 'log_loss'
+2023-03-30 09:53:15,973 - INFO - penalty: 'l2'
+2023-03-30 09:53:15,973 - INFO - tol: 0.01
+2023-03-30 09:53:15,979 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:15,981 - INFO - Row 25 - actual label: safe, predicted label: safe, probability: 0.9078220712122522
+2023-03-30 09:53:16,553 - INFO -  Processed 74 rows
+2023-03-30 09:53:16,554 - INFO - Time for preprocessing a row: 0.5665163993835449
+2023-03-30 09:53:16,554 - INFO - Time for vectorizer: 0.0019621849060058594
+2023-03-30 09:53:16,906 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:16,907 - INFO - loss: 'log_loss'
+2023-03-30 09:53:16,908 - INFO - penalty: 'l2'
+2023-03-30 09:53:16,909 - INFO - tol: 0.01
+2023-03-30 09:53:16,919 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:16,925 - INFO - Row 26 - actual label: safe, predicted label: safe, probability: 0.723359085738568
+2023-03-30 09:53:17,557 - INFO -  Processed 74 rows
+2023-03-30 09:53:17,558 - INFO - Time for preprocessing a row: 0.6213374137878418
+2023-03-30 09:53:17,558 - INFO - Time for vectorizer: 0.001994609832763672
+2023-03-30 09:53:17,804 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:17,805 - INFO - loss: 'log_loss'
+2023-03-30 09:53:17,806 - INFO - penalty: 'l2'
+2023-03-30 09:53:17,807 - INFO - tol: 0.01
+2023-03-30 09:53:17,820 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:17,824 - INFO - Row 27 - actual label: safe, predicted label: safe, probability: 0.9066885599669713
+2023-03-30 09:53:18,359 - INFO -  Processed 74 rows
+2023-03-30 09:53:18,360 - INFO - Time for preprocessing a row: 0.5236232280731201
+2023-03-30 09:53:18,360 - INFO - Time for vectorizer: 0.0019693374633789062
+2023-03-30 09:53:18,593 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:18,593 - INFO - loss: 'log_loss'
+2023-03-30 09:53:18,594 - INFO - penalty: 'l2'
+2023-03-30 09:53:18,594 - INFO - tol: 0.01
+2023-03-30 09:53:18,598 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:18,601 - INFO - Row 28 - actual label: safe, predicted label: safe, probability: 0.7965596542844325
+2023-03-30 09:53:19,162 - INFO -  Processed 74 rows
+2023-03-30 09:53:19,162 - INFO - Time for preprocessing a row: 0.5555412769317627
+2023-03-30 09:53:19,162 - INFO - Time for vectorizer: 0.0009970664978027344
+2023-03-30 09:53:19,383 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:19,383 - INFO - loss: 'log_loss'
+2023-03-30 09:53:19,384 - INFO - penalty: 'l2'
+2023-03-30 09:53:19,384 - INFO - tol: 0.01
+2023-03-30 09:53:19,389 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:19,392 - INFO - Row 29 - actual label: safe, predicted label: safe, probability: 0.9139924822751329
+2023-03-30 09:53:19,953 - INFO -  Processed 74 rows
+2023-03-30 09:53:19,954 - INFO - Time for preprocessing a row: 0.5575084686279297
+2023-03-30 09:53:19,954 - INFO - Time for vectorizer: 0.0019943714141845703
+2023-03-30 09:53:20,180 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:20,181 - INFO - loss: 'log_loss'
+2023-03-30 09:53:20,181 - INFO - penalty: 'l2'
+2023-03-30 09:53:20,181 - INFO - tol: 0.01
+2023-03-30 09:53:20,185 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:20,189 - INFO - Row 30 - actual label: safe, predicted label: safe, probability: 0.902080250417094
+2023-03-30 09:53:20,747 - INFO -  Processed 74 rows
+2023-03-30 09:53:20,747 - INFO - Time for preprocessing a row: 0.5544962882995605
+2023-03-30 09:53:20,747 - INFO - Time for vectorizer: 0.0019943714141845703
+2023-03-30 09:53:20,968 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:20,969 - INFO - loss: 'log_loss'
+2023-03-30 09:53:20,969 - INFO - penalty: 'l2'
+2023-03-30 09:53:20,969 - INFO - tol: 0.01
+2023-03-30 09:53:20,973 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:20,975 - INFO - Row 31 - actual label: safe, predicted label: safe, probability: 0.8438973517063978
+2023-03-30 09:53:21,501 - INFO -  Processed 74 rows
+2023-03-30 09:53:21,502 - INFO - Time for preprocessing a row: 0.5216281414031982
+2023-03-30 09:53:21,502 - INFO - Time for vectorizer: 0.0019943714141845703
+2023-03-30 09:53:21,780 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:21,781 - INFO - loss: 'log_loss'
+2023-03-30 09:53:21,781 - INFO - penalty: 'l2'
+2023-03-30 09:53:21,782 - INFO - tol: 0.01
+2023-03-30 09:53:21,793 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:21,796 - INFO - Row 32 - actual label: safe, predicted label: safe, probability: 0.8116496454666878
+2023-03-30 09:53:22,368 - INFO -  Processed 74 rows
+2023-03-30 09:53:22,369 - INFO - Time for preprocessing a row: 0.5644888877868652
+2023-03-30 09:53:22,369 - INFO - Time for vectorizer: 0.0020225048065185547
+2023-03-30 09:53:22,610 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:22,611 - INFO - loss: 'log_loss'
+2023-03-30 09:53:22,611 - INFO - penalty: 'l2'
+2023-03-30 09:53:22,611 - INFO - tol: 0.01
+2023-03-30 09:53:22,616 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:22,618 - INFO - Row 33 - actual label: safe, predicted label: safe, probability: 0.932528638478652
+2023-03-30 09:53:23,164 - INFO -  Processed 74 rows
+2023-03-30 09:53:23,165 - INFO - Time for preprocessing a row: 0.5405528545379639
+2023-03-30 09:53:23,165 - INFO - Time for vectorizer: 0.001994609832763672
+2023-03-30 09:53:23,386 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:23,386 - INFO - loss: 'log_loss'
+2023-03-30 09:53:23,387 - INFO - penalty: 'l2'
+2023-03-30 09:53:23,387 - INFO - tol: 0.01
+2023-03-30 09:53:23,393 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:23,396 - INFO - Row 34 - actual label: safe, predicted label: safe, probability: 0.8107971300332258
+2023-03-30 09:53:23,964 - INFO -  Processed 74 rows
+2023-03-30 09:53:23,964 - INFO - Time for preprocessing a row: 0.5635209083557129
+2023-03-30 09:53:23,964 - INFO - Time for vectorizer: 0.0019674301147460938
+2023-03-30 09:53:24,193 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:24,193 - INFO - loss: 'log_loss'
+2023-03-30 09:53:24,193 - INFO - penalty: 'l2'
+2023-03-30 09:53:24,194 - INFO - tol: 0.01
+2023-03-30 09:53:24,198 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:24,201 - INFO - Row 35 - actual label: safe, predicted label: safe, probability: 0.7629758676072742
+2023-03-30 09:53:24,788 - INFO -  Processed 74 rows
+2023-03-30 09:53:24,788 - INFO - Time for preprocessing a row: 0.5824410915374756
+2023-03-30 09:53:24,788 - INFO - Time for vectorizer: 0.0019948482513427734
+2023-03-30 09:53:25,014 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:25,014 - INFO - loss: 'log_loss'
+2023-03-30 09:53:25,014 - INFO - penalty: 'l2'
+2023-03-30 09:53:25,014 - INFO - tol: 0.01
+2023-03-30 09:53:25,018 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:25,021 - INFO - Row 36 - actual label: safe, predicted label: safe, probability: 0.7803013135442368
+2023-03-30 09:53:25,543 - INFO -  Processed 74 rows
+2023-03-30 09:53:25,544 - INFO - Time for preprocessing a row: 0.5166234970092773
+2023-03-30 09:53:25,544 - INFO - Time for vectorizer: 0.0019943714141845703
+2023-03-30 09:53:25,824 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:25,825 - INFO - loss: 'log_loss'
+2023-03-30 09:53:25,826 - INFO - penalty: 'l2'
+2023-03-30 09:53:25,826 - INFO - tol: 0.01
+2023-03-30 09:53:25,836 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:25,839 - INFO - Row 37 - actual label: safe, predicted label: safe, probability: 0.8876116395956143
+2023-03-30 09:53:26,371 - INFO -  Processed 74 rows
+2023-03-30 09:53:26,371 - INFO - Time for preprocessing a row: 0.5255937576293945
+2023-03-30 09:53:26,371 - INFO - Time for vectorizer: 0.001993894577026367
+2023-03-30 09:53:26,600 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:26,601 - INFO - loss: 'log_loss'
+2023-03-30 09:53:26,601 - INFO - penalty: 'l2'
+2023-03-30 09:53:26,601 - INFO - tol: 0.01
+2023-03-30 09:53:26,605 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:26,607 - INFO - Row 38 - actual label: safe, predicted label: safe, probability: 0.9725466655998681
+2023-03-30 09:53:27,163 - INFO -  Processed 74 rows
+2023-03-30 09:53:27,164 - INFO - Time for preprocessing a row: 0.550527811050415
+2023-03-30 09:53:27,164 - INFO - Time for vectorizer: 0.00202178955078125
+2023-03-30 09:53:27,392 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:27,392 - INFO - loss: 'log_loss'
+2023-03-30 09:53:27,392 - INFO - penalty: 'l2'
+2023-03-30 09:53:27,393 - INFO - tol: 0.01
+2023-03-30 09:53:27,399 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:27,402 - INFO - Row 39 - actual label: safe, predicted label: safe, probability: 0.8853799291543918
+2023-03-30 09:53:27,930 - INFO -  Processed 74 rows
+2023-03-30 09:53:27,930 - INFO - Time for preprocessing a row: 0.5236270427703857
+2023-03-30 09:53:27,930 - INFO - Time for vectorizer: 0.0019681453704833984
+2023-03-30 09:53:28,167 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:28,168 - INFO - loss: 'log_loss'
+2023-03-30 09:53:28,168 - INFO - penalty: 'l2'
+2023-03-30 09:53:28,168 - INFO - tol: 0.01
+2023-03-30 09:53:28,173 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:28,176 - INFO - Row 40 - actual label: safe, predicted label: safe, probability: 0.9539072097586636
+2023-03-30 09:53:28,719 - INFO -  Processed 74 rows
+2023-03-30 09:53:28,719 - INFO - Time for preprocessing a row: 0.5385594367980957
+2023-03-30 09:53:28,720 - INFO - Time for vectorizer: 0.0020215511322021484
+2023-03-30 09:53:28,947 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:28,947 - INFO - loss: 'log_loss'
+2023-03-30 09:53:28,948 - INFO - penalty: 'l2'
+2023-03-30 09:53:28,948 - INFO - tol: 0.01
+2023-03-30 09:53:28,952 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:28,955 - INFO - Row 41 - actual label: safe, predicted label: safe, probability: 0.6967746702974909
+2023-03-30 09:53:29,459 - INFO -  Processed 74 rows
+2023-03-30 09:53:29,460 - INFO - Time for preprocessing a row: 0.49969053268432617
+2023-03-30 09:53:29,460 - INFO - Time for vectorizer: 0.0019941329956054688
+2023-03-30 09:53:29,694 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:29,695 - INFO - loss: 'log_loss'
+2023-03-30 09:53:29,695 - INFO - penalty: 'l2'
+2023-03-30 09:53:29,696 - INFO - tol: 0.01
+2023-03-30 09:53:29,705 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:29,711 - INFO - Row 42 - actual label: safe, predicted label: safe, probability: 0.850582508866483
+2023-03-30 09:53:30,273 - INFO -  Processed 74 rows
+2023-03-30 09:53:30,274 - INFO - Time for preprocessing a row: 0.5455317497253418
+2023-03-30 09:53:30,274 - INFO - Time for vectorizer: 0.001996278762817383
+2023-03-30 09:53:30,519 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:30,520 - INFO - loss: 'log_loss'
+2023-03-30 09:53:30,520 - INFO - penalty: 'l2'
+2023-03-30 09:53:30,521 - INFO - tol: 0.01
+2023-03-30 09:53:30,525 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:30,528 - INFO - Row 43 - actual label: safe, predicted label: safe, probability: 0.9076659980213087
+2023-03-30 09:53:31,135 - INFO -  Processed 74 rows
+2023-03-30 09:53:31,136 - INFO - Time for preprocessing a row: 0.6024174690246582
+2023-03-30 09:53:31,136 - INFO - Time for vectorizer: 0.001992464065551758
+2023-03-30 09:53:31,344 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:31,345 - INFO - loss: 'log_loss'
+2023-03-30 09:53:31,345 - INFO - penalty: 'l2'
+2023-03-30 09:53:31,345 - INFO - tol: 0.01
+2023-03-30 09:53:31,350 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:31,352 - INFO - Row 44 - actual label: safe, predicted label: safe, probability: 0.7083492052957738
+2023-03-30 09:53:31,871 - INFO -  Processed 74 rows
+2023-03-30 09:53:31,871 - INFO - Time for preprocessing a row: 0.5156519412994385
+2023-03-30 09:53:31,871 - INFO - Time for vectorizer: 0.001990795135498047
+2023-03-30 09:53:32,078 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:32,078 - INFO - loss: 'log_loss'
+2023-03-30 09:53:32,078 - INFO - penalty: 'l2'
+2023-03-30 09:53:32,078 - INFO - tol: 0.01
+2023-03-30 09:53:32,082 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:32,085 - INFO - Row 45 - actual label: safe, predicted label: safe, probability: 0.9741468478630796
+2023-03-30 09:53:32,615 - INFO -  Processed 74 rows
+2023-03-30 09:53:32,616 - INFO - Time for preprocessing a row: 0.5245966911315918
+2023-03-30 09:53:32,616 - INFO - Time for vectorizer: 0.001995086669921875
+2023-03-30 09:53:32,906 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:32,907 - INFO - loss: 'log_loss'
+2023-03-30 09:53:32,907 - INFO - penalty: 'l2'
+2023-03-30 09:53:32,907 - INFO - tol: 0.01
+2023-03-30 09:53:32,912 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:32,914 - INFO - Row 46 - actual label: safe, predicted label: safe, probability: 0.9627438327811996
+2023-03-30 09:53:33,414 - INFO -  Processed 74 rows
+2023-03-30 09:53:33,414 - INFO - Time for preprocessing a row: 0.49367856979370117
+2023-03-30 09:53:33,414 - INFO - Time for vectorizer: 0.002021312713623047
+2023-03-30 09:53:33,631 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:33,631 - INFO - loss: 'log_loss'
+2023-03-30 09:53:33,632 - INFO - penalty: 'l2'
+2023-03-30 09:53:33,632 - INFO - tol: 0.01
+2023-03-30 09:53:33,636 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:33,638 - INFO - Row 47 - actual label: safe, predicted label: safe, probability: 0.9329267201805095
+2023-03-30 09:53:34,170 - INFO -  Processed 74 rows
+2023-03-30 09:53:34,170 - INFO - Time for preprocessing a row: 0.5275826454162598
+2023-03-30 09:53:34,170 - INFO - Time for vectorizer: 0.00202178955078125
+2023-03-30 09:53:34,471 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:34,473 - INFO - loss: 'log_loss'
+2023-03-30 09:53:34,475 - INFO - penalty: 'l2'
+2023-03-30 09:53:34,476 - INFO - tol: 0.01
+2023-03-30 09:53:34,487 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:34,490 - INFO - Row 48 - actual label: safe, predicted label: safe, probability: 0.5949724529012532
+2023-03-30 09:53:35,240 - INFO -  Processed 74 rows
+2023-03-30 09:53:35,240 - INFO - Time for preprocessing a row: 0.7290496826171875
+2023-03-30 09:53:35,240 - INFO - Time for vectorizer: 0.0019931793212890625
+2023-03-30 09:53:35,523 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:35,523 - INFO - loss: 'log_loss'
+2023-03-30 09:53:35,523 - INFO - penalty: 'l2'
+2023-03-30 09:53:35,524 - INFO - tol: 0.01
+2023-03-30 09:53:35,528 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:35,531 - INFO - Row 49 - actual label: safe, predicted label: safe, probability: 0.8604665314574345
+2023-03-30 09:53:36,144 - INFO -  Processed 74 rows
+2023-03-30 09:53:36,144 - INFO - Time for preprocessing a row: 0.6073763370513916
+2023-03-30 09:53:36,144 - INFO - Time for vectorizer: 0.002007007598876953
+2023-03-30 09:53:36,386 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:36,387 - INFO - loss: 'log_loss'
+2023-03-30 09:53:36,388 - INFO - penalty: 'l2'
+2023-03-30 09:53:36,401 - INFO - tol: 0.01
+2023-03-30 09:53:36,440 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:36,450 - INFO - Row 50 - actual label: safe, predicted label: safe, probability: 0.9556760439997053
+2023-03-30 09:53:37,196 - INFO -  Processed 74 rows
+2023-03-30 09:53:37,197 - INFO - Time for preprocessing a row: 0.7171061038970947
+2023-03-30 09:53:37,197 - INFO - Time for vectorizer: 0.0019965171813964844
+2023-03-30 09:53:37,460 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:37,460 - INFO - loss: 'log_loss'
+2023-03-30 09:53:37,461 - INFO - penalty: 'l2'
+2023-03-30 09:53:37,461 - INFO - tol: 0.01
+2023-03-30 09:53:37,466 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:37,469 - INFO - Row 51 - actual label: safe, predicted label: safe, probability: 0.9530840303475627
+2023-03-30 09:53:38,020 - INFO -  Processed 74 rows
+2023-03-30 09:53:38,020 - INFO - Time for preprocessing a row: 0.5475356578826904
+2023-03-30 09:53:38,021 - INFO - Time for vectorizer: 0.001994609832763672
+2023-03-30 09:53:38,240 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:38,240 - INFO - loss: 'log_loss'
+2023-03-30 09:53:38,240 - INFO - penalty: 'l2'
+2023-03-30 09:53:38,241 - INFO - tol: 0.01
+2023-03-30 09:53:38,246 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:38,248 - INFO - Row 52 - actual label: safe, predicted label: safe, probability: 0.9095156845799699
+2023-03-30 09:53:38,929 - INFO -  Processed 74 rows
+2023-03-30 09:53:38,930 - INFO - Time for preprocessing a row: 0.6760308742523193
+2023-03-30 09:53:38,930 - INFO - Time for vectorizer: 0.0020203590393066406
+2023-03-30 09:53:39,248 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:39,249 - INFO - loss: 'log_loss'
+2023-03-30 09:53:39,249 - INFO - penalty: 'l2'
+2023-03-30 09:53:39,249 - INFO - tol: 0.01
+2023-03-30 09:53:39,258 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:39,261 - INFO - Row 53 - actual label: safe, predicted label: safe, probability: 0.9073117569168451
+2023-03-30 09:53:39,882 - INFO -  Processed 74 rows
+2023-03-30 09:53:39,883 - INFO - Time for preprocessing a row: 0.6153531074523926
+2023-03-30 09:53:39,883 - INFO - Time for vectorizer: 0.0019943714141845703
+2023-03-30 09:53:40,058 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:40,059 - INFO - loss: 'log_loss'
+2023-03-30 09:53:40,059 - INFO - penalty: 'l2'
+2023-03-30 09:53:40,059 - INFO - tol: 0.01
+2023-03-30 09:53:40,064 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:40,067 - INFO - Row 54 - actual label: safe, predicted label: safe, probability: 0.7110825738317028
+2023-03-30 09:53:40,630 - INFO -  Processed 74 rows
+2023-03-30 09:53:40,630 - INFO - Time for preprocessing a row: 0.5575356483459473
+2023-03-30 09:53:40,631 - INFO - Time for vectorizer: 0.0019953250885009766
+2023-03-30 09:53:40,936 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:40,937 - INFO - loss: 'log_loss'
+2023-03-30 09:53:40,938 - INFO - penalty: 'l2'
+2023-03-30 09:53:40,938 - INFO - tol: 0.01
+2023-03-30 09:53:40,948 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:40,955 - INFO - Row 55 - actual label: scam, predicted label: safe, probability: 0.8102396034624316
+2023-03-30 09:53:41,466 - INFO -  Processed 74 rows
+2023-03-30 09:53:41,466 - INFO - Time for preprocessing a row: 0.5006864070892334
+2023-03-30 09:53:41,466 - INFO - Time for vectorizer: 0.0019965171813964844
+2023-03-30 09:53:41,629 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:41,629 - INFO - loss: 'log_loss'
+2023-03-30 09:53:41,630 - INFO - penalty: 'l2'
+2023-03-30 09:53:41,630 - INFO - tol: 0.01
+2023-03-30 09:53:41,634 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:41,637 - INFO - Row 56 - actual label: scam, predicted label: safe, probability: 0.8444535919126575
+2023-03-30 09:53:42,167 - INFO -  Processed 74 rows
+2023-03-30 09:53:42,168 - INFO - Time for preprocessing a row: 0.5265913009643555
+2023-03-30 09:53:42,168 - INFO - Time for vectorizer: 0.0019953250885009766
+2023-03-30 09:53:42,424 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:42,424 - INFO - loss: 'log_loss'
+2023-03-30 09:53:42,424 - INFO - penalty: 'l2'
+2023-03-30 09:53:42,425 - INFO - tol: 0.01
+2023-03-30 09:53:42,428 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:42,431 - INFO - Row 57 - actual label: safe, predicted label: safe, probability: 0.8009625201780578
+2023-03-30 09:53:42,958 - INFO -  Processed 74 rows
+2023-03-30 09:53:42,958 - INFO - Time for preprocessing a row: 0.521632194519043
+2023-03-30 09:53:42,958 - INFO - Time for vectorizer: 0.0019948482513427734
+2023-03-30 09:53:43,133 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:43,134 - INFO - loss: 'log_loss'
+2023-03-30 09:53:43,134 - INFO - penalty: 'l2'
+2023-03-30 09:53:43,134 - INFO - tol: 0.01
+2023-03-30 09:53:43,139 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.92      1.00      0.96        23
+        Scam       0.00      0.00      0.00         2
+
+    accuracy                           0.92        25
+   macro avg       0.46      0.50      0.48        25
+weighted avg       0.85      0.92      0.88        25
+
+2023-03-30 09:53:43,142 - INFO - Row 58 - actual label: scam, predicted label: safe, probability: 0.614314734131501
+2023-03-30 09:53:43,716 - INFO -  Processed 74 rows
+2023-03-30 09:53:43,716 - INFO - Time for preprocessing a row: 0.5695040225982666
+2023-03-30 09:53:43,717 - INFO - Time for vectorizer: 0.0019943714141845703
+2023-03-30 09:53:43,993 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:43,993 - INFO - loss: 'log_loss'
+2023-03-30 09:53:43,993 - INFO - penalty: 'l2'
+2023-03-30 09:53:43,994 - INFO - tol: 0.01
+2023-03-30 09:53:43,998 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.92      1.00      0.96        23
+        Scam       0.00      0.00      0.00         2
+
+    accuracy                           0.92        25
+   macro avg       0.46      0.50      0.48        25
+weighted avg       0.85      0.92      0.88        25
+
+2023-03-30 09:53:44,000 - INFO - Row 59 - actual label: safe, predicted label: safe, probability: 0.9057847089872549
+2023-03-30 09:53:44,501 - INFO -  Processed 74 rows
+2023-03-30 09:53:44,502 - INFO - Time for preprocessing a row: 0.49470090866088867
+2023-03-30 09:53:44,502 - INFO - Time for vectorizer: 0.001995563507080078
+2023-03-30 09:53:44,696 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:44,697 - INFO - loss: 'log_loss'
+2023-03-30 09:53:44,697 - INFO - penalty: 'l2'
+2023-03-30 09:53:44,698 - INFO - tol: 0.01
+2023-03-30 09:53:44,706 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.92      1.00      0.96        23
+        Scam       0.00      0.00      0.00         2
+
+    accuracy                           0.92        25
+   macro avg       0.46      0.50      0.48        25
+weighted avg       0.85      0.92      0.88        25
+
+2023-03-30 09:53:44,714 - INFO - Row 60 - actual label: safe, predicted label: safe, probability: 0.6612819198967004
+2023-03-30 09:53:45,221 - INFO -  Processed 74 rows
+2023-03-30 09:53:45,222 - INFO - Time for preprocessing a row: 0.4966721534729004
+2023-03-30 09:53:45,222 - INFO - Time for vectorizer: 0.0009970664978027344
+2023-03-30 09:53:45,510 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:45,510 - INFO - loss: 'log_loss'
+2023-03-30 09:53:45,511 - INFO - penalty: 'l2'
+2023-03-30 09:53:45,511 - INFO - tol: 0.01
+2023-03-30 09:53:45,517 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.92      1.00      0.96        23
+        Scam       0.00      0.00      0.00         2
+
+    accuracy                           0.92        25
+   macro avg       0.46      0.50      0.48        25
+weighted avg       0.85      0.92      0.88        25
+
+2023-03-30 09:53:45,523 - INFO - Row 61 - actual label: scam, predicted label: safe, probability: 0.6536187405965846
+2023-03-30 09:53:46,407 - INFO -  Processed 74 rows
+2023-03-30 09:53:46,407 - INFO - Time for preprocessing a row: 0.8656859397888184
+2023-03-30 09:53:46,408 - INFO - Time for vectorizer: 0.003986835479736328
+2023-03-30 09:53:46,788 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:46,788 - INFO - loss: 'log_loss'
+2023-03-30 09:53:46,789 - INFO - penalty: 'l2'
+2023-03-30 09:53:46,791 - INFO - tol: 0.01
+2023-03-30 09:53:46,802 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.92      1.00      0.96        23
+        Scam       0.00      0.00      0.00         2
+
+    accuracy                           0.92        25
+   macro avg       0.46      0.50      0.48        25
+weighted avg       0.85      0.92      0.88        25
+
+2023-03-30 09:53:46,812 - INFO - Row 62 - actual label: scam, predicted label: safe, probability: 0.5775237359125378
+2023-03-30 09:53:47,480 - INFO -  Processed 74 rows
+2023-03-30 09:53:47,481 - INFO - Time for preprocessing a row: 0.6542465686798096
+2023-03-30 09:53:47,481 - INFO - Time for vectorizer: 0.0029916763305664062
+2023-03-30 09:53:47,781 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:47,782 - INFO - loss: 'log_loss'
+2023-03-30 09:53:47,784 - INFO - penalty: 'l2'
+2023-03-30 09:53:47,785 - INFO - tol: 0.01
+2023-03-30 09:53:47,812 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.92      1.00      0.96        23
+        Scam       0.00      0.00      0.00         2
+
+    accuracy                           0.92        25
+   macro avg       0.46      0.50      0.48        25
+weighted avg       0.85      0.92      0.88        25
+
+2023-03-30 09:53:47,819 - INFO - Row 63 - actual label: scam, predicted label: safe, probability: 0.7739652609083384
+2023-03-30 09:53:48,763 - INFO -  Processed 74 rows
+2023-03-30 09:53:48,763 - INFO - Time for preprocessing a row: 0.9354982376098633
+2023-03-30 09:53:48,764 - INFO - Time for vectorizer: 0.0019936561584472656
+2023-03-30 09:53:49,048 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:49,048 - INFO - loss: 'log_loss'
+2023-03-30 09:53:49,048 - INFO - penalty: 'l2'
+2023-03-30 09:53:49,048 - INFO - tol: 0.01
+2023-03-30 09:53:49,052 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:49,054 - INFO - Row 64 - actual label: safe, predicted label: safe, probability: 0.9207126203189793
+2023-03-30 09:53:49,585 - INFO -  Processed 74 rows
+2023-03-30 09:53:49,585 - INFO - Time for preprocessing a row: 0.5266194343566895
+2023-03-30 09:53:49,586 - INFO - Time for vectorizer: 0.0019943714141845703
+2023-03-30 09:53:49,800 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:49,801 - INFO - loss: 'log_loss'
+2023-03-30 09:53:49,801 - INFO - penalty: 'l2'
+2023-03-30 09:53:49,802 - INFO - tol: 0.01
+2023-03-30 09:53:49,806 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:49,809 - INFO - Row 65 - actual label: safe, predicted label: safe, probability: 0.6974463280247386
+2023-03-30 09:53:50,306 - INFO -  Processed 74 rows
+2023-03-30 09:53:50,307 - INFO - Time for preprocessing a row: 0.4916856288909912
+2023-03-30 09:53:50,307 - INFO - Time for vectorizer: 0.001994609832763672
+2023-03-30 09:53:50,552 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:50,553 - INFO - loss: 'log_loss'
+2023-03-30 09:53:50,553 - INFO - penalty: 'l2'
+2023-03-30 09:53:50,553 - INFO - tol: 0.01
+2023-03-30 09:53:50,559 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:50,561 - INFO - Row 66 - actual label: safe, predicted label: safe, probability: 0.8204880317113055
+2023-03-30 09:53:51,086 - INFO -  Processed 74 rows
+2023-03-30 09:53:51,086 - INFO - Time for preprocessing a row: 0.5205798149108887
+2023-03-30 09:53:51,086 - INFO - Time for vectorizer: 0.0019943714141845703
+2023-03-30 09:53:51,243 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:51,244 - INFO - loss: 'log_loss'
+2023-03-30 09:53:51,244 - INFO - penalty: 'l2'
+2023-03-30 09:53:51,244 - INFO - tol: 0.01
+2023-03-30 09:53:51,248 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:51,251 - INFO - Row 67 - actual label: safe, predicted label: safe, probability: 0.9256609158315002
+2023-03-30 09:53:51,758 - INFO -  Processed 74 rows
+2023-03-30 09:53:51,759 - INFO - Time for preprocessing a row: 0.5026822090148926
+2023-03-30 09:53:51,759 - INFO - Time for vectorizer: 0.001966714859008789
+2023-03-30 09:53:52,018 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:52,018 - INFO - loss: 'log_loss'
+2023-03-30 09:53:52,019 - INFO - penalty: 'l2'
+2023-03-30 09:53:52,019 - INFO - tol: 0.01
+2023-03-30 09:53:52,023 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:52,026 - INFO - Row 68 - actual label: safe, predicted label: safe, probability: 0.723231434049793
+2023-03-30 09:53:52,521 - INFO -  Processed 74 rows
+2023-03-30 09:53:52,522 - INFO - Time for preprocessing a row: 0.4906885623931885
+2023-03-30 09:53:52,522 - INFO - Time for vectorizer: 0.001995086669921875
+2023-03-30 09:53:52,762 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:52,763 - INFO - loss: 'log_loss'
+2023-03-30 09:53:52,763 - INFO - penalty: 'l2'
+2023-03-30 09:53:52,763 - INFO - tol: 0.01
+2023-03-30 09:53:52,769 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:52,772 - INFO - Row 69 - actual label: safe, predicted label: safe, probability: 0.9697452601724816
+2023-03-30 09:53:53,327 - INFO -  Processed 74 rows
+2023-03-30 09:53:53,327 - INFO - Time for preprocessing a row: 0.548532247543335
+2023-03-30 09:53:53,327 - INFO - Time for vectorizer: 0.0019943714141845703
+2023-03-30 09:53:53,609 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:53,610 - INFO - loss: 'log_loss'
+2023-03-30 09:53:53,610 - INFO - penalty: 'l2'
+2023-03-30 09:53:53,610 - INFO - tol: 0.01
+2023-03-30 09:53:53,615 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.88      1.00      0.94        22
+        Scam       0.00      0.00      0.00         3
+
+    accuracy                           0.88        25
+   macro avg       0.44      0.50      0.47        25
+weighted avg       0.77      0.88      0.82        25
+
+2023-03-30 09:53:53,617 - INFO - Row 70 - actual label: scam, predicted label: safe, probability: 0.8317178584570607
+2023-03-30 09:53:54,164 - INFO -  Processed 74 rows
+2023-03-30 09:53:54,165 - INFO - Time for preprocessing a row: 0.5425488948822021
+2023-03-30 09:53:54,165 - INFO - Time for vectorizer: 0.0019943714141845703
+2023-03-30 09:53:54,326 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:54,327 - INFO - loss: 'log_loss'
+2023-03-30 09:53:54,327 - INFO - penalty: 'l2'
+2023-03-30 09:53:54,327 - INFO - tol: 0.01
+2023-03-30 09:53:54,331 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.84      1.00      0.91        21
+        Scam       0.00      0.00      0.00         4
+
+    accuracy                           0.84        25
+   macro avg       0.42      0.50      0.46        25
+weighted avg       0.71      0.84      0.77        25
+
+2023-03-30 09:53:54,334 - INFO - Row 71 - actual label: safe, predicted label: safe, probability: 0.9342122697523234
+2023-03-30 09:53:54,840 - INFO -  Processed 74 rows
+2023-03-30 09:53:54,841 - INFO - Time for preprocessing a row: 0.5006890296936035
+2023-03-30 09:53:54,841 - INFO - Time for vectorizer: 0.0019943714141845703
+2023-03-30 09:53:55,097 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:55,098 - INFO - loss: 'log_loss'
+2023-03-30 09:53:55,098 - INFO - penalty: 'l2'
+2023-03-30 09:53:55,098 - INFO - tol: 0.01
+2023-03-30 09:53:55,102 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.84      1.00      0.91        21
+        Scam       0.00      0.00      0.00         4
+
+    accuracy                           0.84        25
+   macro avg       0.42      0.50      0.46        25
+weighted avg       0.71      0.84      0.77        25
+
+2023-03-30 09:53:55,105 - INFO - Row 72 - actual label: safe, predicted label: safe, probability: 0.9599912588282933
+2023-03-30 09:53:55,598 - INFO -  Processed 74 rows
+2023-03-30 09:53:55,598 - INFO - Time for preprocessing a row: 0.4887053966522217
+2023-03-30 09:53:55,598 - INFO - Time for vectorizer: 0.001996755599975586
+2023-03-30 09:53:55,834 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:55,834 - INFO - loss: 'log_loss'
+2023-03-30 09:53:55,834 - INFO - penalty: 'l2'
+2023-03-30 09:53:55,834 - INFO - tol: 0.01
+2023-03-30 09:53:55,838 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.84      1.00      0.91        21
+        Scam       0.00      0.00      0.00         4
+
+    accuracy                           0.84        25
+   macro avg       0.42      0.50      0.46        25
+weighted avg       0.71      0.84      0.77        25
+
+2023-03-30 09:53:55,840 - INFO - Row 73 - actual label: safe, predicted label: safe, probability: 0.9717092404537263
+2023-03-30 09:53:56,341 - INFO -  Processed 74 rows
+2023-03-30 09:53:56,342 - INFO - Time for preprocessing a row: 0.49669814109802246
+2023-03-30 09:53:56,342 - INFO - Time for vectorizer: 0.0019948482513427734
+2023-03-30 09:53:56,602 - INFO - Optimal Parametres for this classification job:
+2023-03-30 09:53:56,602 - INFO - loss: 'log_loss'
+2023-03-30 09:53:56,602 - INFO - penalty: 'l2'
+2023-03-30 09:53:56,603 - INFO - tol: 0.01
+2023-03-30 09:53:56,607 - INFO -               precision    recall  f1-score   support
+
+        Safe       0.84      1.00      0.91        21
+        Scam       0.00      0.00      0.00         4
+
+    accuracy                           0.84        25
+   macro avg       0.42      0.50      0.46        25
+weighted avg       0.71      0.84      0.77        25
+
+2023-03-30 09:53:56,610 - INFO - Row 74 - actual label: safe, predicted label: safe, probability: 0.9217433970554813
+2023-03-30 09:53:56,617 - INFO - Saved output to ./out_data\dfdccc3f_cecf_11ed_9736_04421a29ab6f.csv
