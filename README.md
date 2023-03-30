@@ -13,7 +13,7 @@ Usage
 
     Place the input data CSV files in the data folder.
     Navigate into 'src': cd src
-    Run the code: poetry run python error_detect.py
+    Run the code: python error_detect.py
     The output will be generated in the out_data folder as a CSV file with a unique file name.
 
 Logging
@@ -23,6 +23,8 @@ The code uses the logging module to log events and errors to a log file and the 
 Testing
 
 The code uses pytest for unit testing.
+    Navigate into 'src': cd src
+    Run the code: pytest ..\test
 
 License
 
