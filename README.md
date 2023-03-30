@@ -23,6 +23,7 @@ The code uses the logging module to log events and errors to a log file and the 
 Testing
 
 The code uses pytest for unit testing.
+
     Navigate into 'src': cd src
     Run the code: pytest ..\test
 
